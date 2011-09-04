@@ -14,7 +14,7 @@ namespace SmarterPayment
 
 <html>
 <head>
-    <title></title>
+    <title>Test</title>
 </head>
 <body>
     <div>
